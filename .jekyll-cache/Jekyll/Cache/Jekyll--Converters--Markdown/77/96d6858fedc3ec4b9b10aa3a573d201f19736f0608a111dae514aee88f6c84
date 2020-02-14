@@ -1,0 +1,74 @@
+I"�<p><img src="./images/wtf.jpeg" alt="" /></p>
+
+<h3 id="intro">Intro</h3>
+
+<blockquote>
+  <p>Quando o assunto é tecnologia web temos que nos adequar a várias metodologias que hoje em dia estão em constante evolução. Assim acabamos inconsequentemente dando foco a conteúdos mais robusto e não damos uma certa ênfase a conteúdos simples.. que porém são extrema importância.</p>
+</blockquote>
+
+<blockquote>
+  <p>O arquivo README se encaixa nesse quesito e daqui em diante iremos falar sobre seus principais aspectos durante esse post..</p>
+</blockquote>
+
+<h3 id="utilização-metodologias-de-escritasignificado">Utilização, metodologias de escrita/significado</h3>
+
+<blockquote>
+  <p>O <em>README</em> é bastante utilizado quando o assunto é escrever documentações,listas e resumos pois sua estrutura é bem simples.
+ Na maioria dos casos o encontramos na raiz do projeto ou seja na pasta principal, pois é nesse arquivo que documentamos peculiaridades do projeto. 
+Por padrão escrevemos o <em>README</em> a maioria das vezes com a linguagem markdown a qual utiliza a extensão ( .md ). Também podemos encontrar um arquivo <em>README</em> com outras extensões mas seus princípios sempre serão os mesmos.</p>
+</blockquote>
+
+<blockquote>
+  <p>Antes de pensar em escrever uma documentação ou melhor um arquivo README, temos que verificar quem serão nossos leitores, assim conseguimos adotar uma metodologia de escrita na qual o leitor irá se identificar melhor.</p>
+</blockquote>
+
+<p><strong>É comum temos os seguintes leitores para o documentações :</strong></p>
+
+<ol>
+  <li>Nós mesmos.</li>
+  <li>Colaboradores da empresa.</li>
+  <li>Amigos.</li>
+  <li>Usuários da web em geral.</li>
+</ol>
+
+<blockquote>
+  <p>Iremos ver que o arquivo README é bem semelhante a um simples arquivo texto ( .txt ). A simplicidade da escrita do README é pelo fato de que estamos escrevendo para o entendimento de seres-humanos e não de máquinas.. ou seja temos de nos imaginar no lugar do leitor e escrever algo simples porém eficaz e de fácil entendimento.</p>
+</blockquote>
+
+<blockquote>
+  <p>A nomenclatura <em>README</em> quer dizer ( leia-me ), agora já sabemos que é importante ler esse arquivo sempre que o encontrarmos em algum projeto ou em outras circunstâncias.</p>
+</blockquote>
+
+<h3 id="anatomia-do-arquivo">Anatomia do arquivo</h3>
+
+<blockquote>
+  <p>O README não tem um único padrão de estrutura específico, pois cada projeto tem suas particularidades, tendo em vista que alguns tópicos realmente acabam se adaptando a qualquer tipo de projeto..</p>
+</blockquote>
+
+<blockquote>
+  <p>Para melhor entendimento, irei fazer algumas perguntas que devem ser feitas antes de escrevermos o arquivo, pois essas perguntas vão determinar o que teremos que escrever no README.</p>
+</blockquote>
+
+<ol>
+  <li>
+    <p>Quais são as ordens das etapas a serem executadas para que o código/projeto funcione ??</p>
+  </li>
+  <li>
+    <p>Quais são as pré configuração que precisamos ter ??</p>
+  </li>
+  <li>
+    <p>O que precisa ser instalado ??</p>
+  </li>
+  <li>
+    <p>O que pode ter estar difícil de entender ao ler o código??</p>
+  </li>
+  <li>
+    <p>Temos algum problema no código que pode gerar erro ?</p>
+  </li>
+  <li>
+    <p><strong>Falar sobre o principal assunto que será tratado e também colocar qual é nosso objetivo principal em criar o projeto/conteúdo</strong></p>
+  </li>
+</ol>
+
+<p><img src="./images/begin.png" alt="" /></p>
+:ET
